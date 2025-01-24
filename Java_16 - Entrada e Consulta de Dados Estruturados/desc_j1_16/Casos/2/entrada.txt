@@ -1,0 +1,19 @@
+2
+123
+Garp
+78
+123
+Magikarp
+3
+456
+Dragon
+55
+456 Nome
+123 Nome
+456 Idade
+123 Idade
+456 Nome
+123 Nome
+456 Idade
+123 Idade
+
